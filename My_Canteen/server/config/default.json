@@ -1,0 +1,7 @@
+{
+    "server": "localhost",
+    "database": "dmc",
+    "user": "root",
+    "password": "manager",
+    "port": 9898
+}
